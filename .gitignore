@@ -13,3 +13,6 @@ hs_err_pid*
 
 **/.idea/
 **/target/
+week07/dump/enron/messages.bson
+week07/final-question4/posts.f52bca51f2fb.json
+week07/dump/enron/messages.metadata.json
